@@ -29,3 +29,19 @@ Template 13: 3 maanden voor einddatum (Dubbel + Gas, je vorm)
 
 Template 14: 3 maanden voor einddatum (Dubbel + Gas, u vorm)
 
+Template 15: 3 maanden voor einddatum (Enkel + Geen gas, je vorm) (Herinnering)
+
+Template 16: 3 maanden voor einddatum (Enkel + Geen gas, u vorm) (Herinnering)
+
+Template 17: 3 maanden voor einddatum (Enkel + Gas, je vorm) (Herinnering)
+
+Template 18: 3 maanden voor einddatum (Enkel + Gas, u vorm) (Herinnering)
+
+Template 19: 3 maanden voor einddatum (Dubbel + Geen gas, je vorm) (Herinnering)
+
+Template 20: 3 maanden voor einddatum (Dubbel + Geen gas, u vorm) (Herinnering)
+
+Template 21: 3 maanden voor einddatum (Dubbel + Gas, je vorm) (Herinnering)
+
+Template 22: 3 maanden voor einddatum (Dubbel + Gas, u vorm) (Herinnering)
+
